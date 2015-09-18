@@ -106,7 +106,7 @@ environments:
       dataSources:
         dataSource:
             dbCreate: update
-            url: jdbc:postgresql://localhost:55407/bench
+            url: jdbc:postgresql://aaqlfm9bz7oyji.cmfvri05ttys.us-east-1.rds.amazonaws.com:5432/bench
             properties:
                 jmxEnabled: true
                 initialSize: 5
